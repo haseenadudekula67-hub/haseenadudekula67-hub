@@ -23,4 +23,4 @@ A passionate developer looking to grow, build impactful projects, and solve inte
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://vercel.app)
+![Haseena's GitHub Stats](https://vercel.app)
